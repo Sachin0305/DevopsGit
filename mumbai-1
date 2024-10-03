@@ -2,6 +2,12 @@ Devops Commands
 ls
 pwd
 ls -l
-mkdir 
-cat 
+mkdir
+cat
 touch
+More Commands
+touch
+sudo su
+mv
+cp
+tac
